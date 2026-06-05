@@ -22,7 +22,7 @@ Every project in this portfolio is built around a real business problem — not 
 
 | # | Project | Domain | Core Question | Tools | Status |
 |---|---------|--------|--------------|-------|--------|
-| 01 | [Credit Risk Early Warning System](#) | Finance · Banking | Which customers will default next quarter? | SQL · Python · Power BI | 🔨 In Progress |
+| 01 | [Credit Risk Early Warning System](#) | Finance · Banking | Which customers will default next quarter? | SQL · Python · Power BI | ✅ Complete |
 | 02 | [Olist Commercial Intelligence](#) | Ecommerce | Where is revenue leaking and who drives 80% of LTV? | SQL · Python · Power BI | 🔜 Coming Soon |
 | 03 | [Campaign Budget Intelligence](#) | Marketing Analytics | Which channels waste budget and where should it move? | SQL · Python · Power BI | 🔜 Coming Soon |
 
